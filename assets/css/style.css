@@ -248,6 +248,9 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
+    background-color: aliceblue;
+    align-self: flex-end;
+    text-align-last: center;
 }
 
 #hero h1 {
